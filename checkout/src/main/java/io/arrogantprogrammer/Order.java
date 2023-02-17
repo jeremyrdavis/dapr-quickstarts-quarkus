@@ -12,8 +12,10 @@ public class Order {
         return orderId;
     }
 
-    
-
-    
-    
+    @Override
+    public String toString() {
+        return "Order{" +
+                "orderId=" + orderId +
+                '}';
+    }
 }

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/checkout/checkout.iml" filepath="$PROJECT_DIR$/checkout/checkout.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-processor/order-processor.iml" filepath="$PROJECT_DIR$/order-processor/order-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/order-processor-quarkus/order-processor-quarkus.iml" filepath="$PROJECT_DIR$/order-processor-quarkus/order-processor-quarkus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/quickstarts-quarkus.iml" filepath="$PROJECT_DIR$/.idea/quickstarts-quarkus.iml" />
+    </modules>
+  </component>
+</project>
